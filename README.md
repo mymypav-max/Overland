@@ -35,24 +35,34 @@ Overland est un projet de jeu vidéo personnel (« homemade »), conçu pour êt
 - **Overland** est le nom de travail du jeu et peut également être le nom de son monde.
 - Le jeu se déroule à un **instant donné** : le joueur ne voyage pas entre différentes époques.
 - Le passé est découvert à travers ses vestiges : fossiles, animaux préhistoriques, grottes, ruines, lieux abandonnés et autres indices.
-- Le monde reste reconnaissable et proche du nôtre dans ses paysages et ses lieux habités, tout en étant affecté par un phénomène mystérieux lié aux pouvoirs des animaux.
-- Le cadre principal envisagé et retenu est une **grande île connue depuis longtemps dans le monde entier**, avec des lieux habités, des localités abandonnées, des grottes et des régions naturelles variées.
+- Le monde reste reconnaissable et proche du nôtre dans ses paysages et ses lieux habités.
+- Le cadre principal est une **grande île connue depuis longtemps dans le monde entier**, avec des lieux habités, des localités abandonnées, des grottes et des régions naturelles variées.
 - L’île est réputée pour ses animaux : ils ressemblent à des animaux ordinaires du monde réel, mais possèdent des pouvoirs surnaturels ou élémentaires.
 - Des personnes venues du monde entier — notamment des chercheurs et des explorateurs — se rendent sur l’île pour étudier ses animaux et tenter de comprendre ce phénomène.
 - À ce stade, l’île est le seul endroit connu où des animaux possèdent ces pouvoirs.
-- Les fossiles découverts sur l’île indiquent que des espèces préhistoriques possédaient elles aussi des pouvoirs. Cela suggère que le phénomène est ancien, sans en expliquer l’origine.
-- Les grottes et certains lieux isolés peuvent contenir des animaux sauvages, des captures rares, des objets, des fossiles, des secrets et des indices sur ce phénomène.
+- Les fossiles découverts sur l’île indiquent que des espèces préhistoriques possédaient elles aussi des pouvoirs. Cela révèle que le phénomène existait déjà dans un passé très lointain.
+- **Les pouvoirs des animaux constituent le seul phénomène mystérieux établi sur l’île.** Aucun autre phénomène fantastique propre à l’île n’est actuellement défini.
+- Le centre de l’île pourrait être occupé par un grand cratère laissé par l’impact d’une météorite à la fin du Crétacé, il y a environ 66 millions d’années. Cette catastrophe aurait entraîné la disparition de la civilisation ancienne et l’extinction de nombreuses espèces préhistoriques.
+- Beaucoup pensent que la météorite est à l’origine des pouvoirs des animaux, mais cette explication n’a jamais pu être prouvée. La révélation finale montrera que cette croyance est erronée : les pouvoirs proviennent d’une pierre magique créée par la civilisation ancienne, qui est restée active après sa disparition.
+- Les grottes et certains lieux isolés peuvent contenir des animaux sauvages, des objets, des fossiles et des indices sur l’histoire de l’île.
+
+### Histoire ancienne et pierre — validé comme direction narrative
+
+- Une civilisation ancienne, dotée d’une intelligence très avancée, vivait sur l’île à la fin du Crétacé.
+- Cette civilisation a créé une **pierre magique** capable de conférer des pouvoirs aux animaux, notamment pour l’aider à se défendre.
+- La pierre est restée active après la disparition de ses créateurs et confère encore des pouvoirs aux animaux actuels de l’île.
+- Le fonctionnement exact de la pierre restera un mystère. Le récit doit révéler son rôle dans l’origine des pouvoirs, sans imposer d’explication technique ou scientifique à sa magie.
+- Une météorite a frappé l’île et provoqué la catastrophe qui a entraîné la disparition de la civilisation. Le cratère central en serait le vestige. La météorite n’est toutefois **pas** la source des pouvoirs animaux.
+- Le protagoniste découvrira des symboles gravés sur des ruines et/ou portés par des talismans. Ces découvertes permettront progressivement de comprendre comment déverrouiller la pierre.
+- La pierre sera découverte vers le milieu de l’aventure. Le joueur comprendra alors qu’il doit retrouver **dix symboles** pour la déverrouiller, ce qui donne un objectif à long terme sans révéler trop tôt toute l’explication.
+- Une fois les dix symboles réunis et saisis sur la pierre, une séquence narrative révélera l’existence de la civilisation ancienne, la fonction défensive de la pierre, la catastrophe météoritique et la véritable origine des pouvoirs animaux.
 
 ### À concevoir
 
-- La nature exacte du phénomène mystérieux et son rôle dans l’histoire.
 - La carte, les régions, leur ordre de découverte et leurs particularités.
 - La place des villes, laboratoires, ruines et autres lieux importants dans le récit.
-- Les règles précises du phénomène et les raisons pour lesquelles il est propre à l’île.
-
-### Piste — origine du phénomène
-
-Une météorite ayant frappé l’île il y a des millions d’années a été évoquée comme explication possible des pouvoirs, y compris ceux des animaux préhistoriques. Cette hypothèse n’est **pas validée** et ne doit pas être considérée comme l’explication définitive.
+- La répartition des dix symboles, leurs indices et la façon dont le joueur les saisit sur la pierre.
+- Le contenu précis de la séquence de révélation finale et les détails de l’histoire ancienne.
 
 ## 3. Les animaux
 
@@ -146,6 +156,7 @@ Les animaux préhistoriques ne doivent pas être automatiquement plus puissants 
 - La progression vers des régions plus avancées permet de rencontrer des animaux plus puissants.
 - Le joueur affrontera également des personnages humains possédant leurs propres équipes d’animaux.
 - L’objectif narratif central est une **enquête et une exploration visant à comprendre pourquoi les animaux de l’île possèdent des pouvoirs et pourquoi ce phénomène n’est connu que sur cette île**.
+- La recherche de symboles découverts sur des ruines et/ou des talismans mène à une pierre ancienne, découverte vers le milieu de l’aventure. Le joueur doit réunir dix symboles pour la déverrouiller ; leur saisie déclenche la révélation finale sur la civilisation disparue et l’origine des pouvoirs animaux.
 
 ### À concevoir
 
@@ -157,7 +168,7 @@ Les animaux préhistoriques ne doivent pas être automatiquement plus puissants 
 
 ### Validé
 
-- L’histoire doit s’intégrer à un monde où les animaux possèdent des pouvoirs et où certains lieux conservent des traces d’un passé mystérieux.
+- L’histoire s’intègre à un monde où les animaux possèdent des pouvoirs et où certains lieux conservent des traces d’une civilisation ancienne. Les pouvoirs des animaux sont le seul phénomène mystérieux établi sur l’île.
 - Le protagoniste est une personne ordinaire, éventuellement issue d’un milieu scientifique et passionnée par les animaux. Il ne s’agit pas d’un élu : sa curiosité et sa démarche d’enquête sont centrales.
 - Le protagoniste se rend sur l’île avec l’intention d’explorer, d’étudier les animaux et de comprendre l’origine de leurs pouvoirs. Le chien ne déclenche donc pas la quête principale.
 - Le protagoniste arrive sur l’île avec son chien, un animal ordinaire venu de l’extérieur.
@@ -172,7 +183,7 @@ Les animaux préhistoriques ne doivent pas être automatiquement plus puissants 
 - Le nom, la personnalité, la profession exacte et l’histoire personnelle du protagoniste.
 - L’espèce, la personnalité et le pouvoir du chien, ainsi que le moment précis où il commence à manifester ce pouvoir.
 - Le déroulement détaillé de l’enquête, les personnages importants, les éventuelles factions, l’antagoniste et la conclusion.
-- L’explication définitive du phénomène mystérieux. Aucune explication n’est validée à ce stade.
+- Les détails précis de la civilisation ancienne et de la séquence finale, sans chercher à expliquer le fonctionnement magique de la pierre.
 
 ## 9. Plateforme et contraintes de réalisation
 
@@ -205,6 +216,8 @@ Ce document est la source de vérité du projet pendant la première phase. Tout
 
 - **Initialisation** : nom de travail *Overland* ; monde situé à un instant donné ; passé révélé par ses vestiges ; conception centralisée dans ce document unique.
 - **Durée cible** : environ 15 à 20 heures pour l’aventure principale et l’exploration associée, avec un développement progressif à partir d’une première portion jouable.
-- **Cadre et mystère** : grande île connue de longue date, célèbre pour ses animaux dotés de pouvoirs ; l’enquête principale cherche à comprendre l’origine et la spécificité insulaire du phénomène. L’hypothèse d’une météorite reste une piste non validée.
+- **Cadre et mystère** : grande île connue de longue date, célèbre pour ses animaux dotés de pouvoirs. Ces pouvoirs sont le seul phénomène mystérieux établi sur l’île.
+- **Civilisation ancienne et pierre** : direction narrative validée. Une civilisation à l’intelligence très avancée vivait sur l’île à la fin du Crétacé. Elle a créé une pierre magique pour conférer des pouvoirs aux animaux et se défendre. La pierre est restée active après la disparition de la civilisation, lors d’une catastrophe provoquée par une météorite il y a environ 66 millions d’années. Le cratère au centre de l’île est le vestige supposé de l’impact ; contrairement à la croyance commune, la météorite n’est pas la source des pouvoirs.
+- **Symboles et révélation** : le joueur découvre la pierre vers le milieu de l’aventure, puis apprend qu’il doit réunir dix symboles trouvés sur des ruines et/ou des talismans. Leur saisie déverrouille la pierre et déclenche une séquence révélant l’histoire de la civilisation, la catastrophe et le rôle de la pierre. Son fonctionnement magique restera inexpliqué.
 - **Protagoniste et chien** : protagoniste ordinaire venu enquêter ; chien venu de l’extérieur et compagnon permanent non échangeable. Le développement d’un pouvoir chez le chien après son arrivée est une piste narrative destinée à révéler que le phénomène pourrait agir activement sur les animaux.
 - **Capture et stockage** : appareil technologique unique, charges consommables à chaque tentative, capacité de transport de six animaux et stockage distant pour les captures supplémentaires.
