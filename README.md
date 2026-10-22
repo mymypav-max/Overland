@@ -87,7 +87,7 @@ Cette liste initiale pourra évoluer ; elle ne fixe pas encore le tableau des fo
 
 ### À concevoir
 
-- Les caractéristiques, techniques, rôles tactiques et règles de combat.
+- Les caractéristiques, techniques, rôles tactiques et règles détaillées de combat, en s’appuyant sur le modèle éprouvé du combat au tour par tour de Pokémon.
 - La taille de l’équipe de combat et les règles détaillées de gestion de l’équipe.
 - Le catalogue des espèces et l’équilibrage entre elles.
 - La progression des niveaux et les conditions exactes de rencontre.
@@ -107,7 +107,7 @@ Cette liste initiale pourra évoluer ; elle ne fixe pas encore le tableau des fo
 ### À concevoir
 
 - Le nom, l’apparence et le fonctionnement précis de l’appareil.
-- Le mécanisme concret de capture et son animation.
+- Les règles concrètes de capture, les chances de réussite et l’animation. Le principe général peut assumer une inspiration directe de Pokémon ; il n’est pas nécessaire de réinventer cette mécanique pour elle-même.
 - Le fonctionnement détaillé du stockage distant et la façon dont le joueur y accède.
 - Le nombre de charges obtenues à l’achat ou en exploration, leur prix et leur fréquence de disponibilité.
 - Les chances de capture et les facteurs qui les influencent.
@@ -171,10 +171,10 @@ Les animaux préhistoriques ne doivent pas être automatiquement plus puissants 
 - L’histoire s’intègre à un monde où les animaux possèdent des pouvoirs et où certains lieux conservent des traces d’une civilisation ancienne. Les pouvoirs des animaux sont le seul phénomène mystérieux établi sur l’île.
 - Le protagoniste est une personne ordinaire, éventuellement issue d’un milieu scientifique et passionnée par les animaux. Il ne s’agit pas d’un élu : sa curiosité et sa démarche d’enquête sont centrales.
 - Le protagoniste se rend sur l’île avec l’intention d’explorer, d’étudier les animaux et de comprendre l’origine de leurs pouvoirs. Le chien ne déclenche donc pas la quête principale.
-- Le protagoniste arrive sur l’île avec son chien, un animal ordinaire venu de l’extérieur.
+- Le protagoniste arrive sur l’île avec son chien, un animal ordinaire venu de l’extérieur. Le chien accompagne d’abord le protagoniste, puis devient progressivement l’un des animaux utilisables en combat lorsqu’il développe des pouvoirs.
 - Le chien est un **compagnon permanent et non échangeable**, présent tout au long de l’aventure. Il occupe une place particulière dans l’équipe et dans la relation avec le protagoniste.
-- Le chien pourrait développer un pouvoir après avoir passé un certain temps sur l’île. Ce changement constituerait un indice concret qu’un phénomène actif peut agir sur un animal après son arrivée, et que les pouvoirs ne s’expliquent peut-être pas uniquement par une caractéristique génétique des animaux nés sur l’île.
-- Le changement du chien serait une découverte importante pour le protagoniste, mais pas la raison initiale de sa venue ni une explication complète du mystère.
+- Après avoir passé un certain temps sur l’île, le chien développe progressivement des pouvoirs. Ce changement constitue un indice concret qu’un animal né à l’extérieur peut lui aussi acquérir des pouvoirs après son arrivée sur l’île.
+- Le changement du chien est un élément de découverte important pour le protagoniste, mais pas la raison initiale de sa venue ni une explication complète du mystère.
 - Les relations entre personnages, les rencontres récurrentes et les rivalités peuvent participer à l’aventure.
 - Le laboratoire et la recherche sur les fossiles pourront avoir un rôle narratif.
 
@@ -190,7 +190,7 @@ Les animaux préhistoriques ne doivent pas être automatiquement plus puissants 
 ### À concevoir
 
 - Le nom, la personnalité, la profession exacte et l’histoire personnelle du protagoniste.
-- L’espèce, la personnalité et le pouvoir du chien, ainsi que le moment précis où il commence à manifester ce pouvoir.
+- L’espèce, la personnalité et les pouvoirs du chien, ainsi que le rythme et le moment précis de leur apparition.
 - Le déroulement détaillé de l’enquête, les personnages importants, les éventuelles factions, l’antagoniste et la conclusion.
 - Les détails précis de la civilisation ancienne et de la séquence finale, sans chercher à expliquer le fonctionnement magique de la pierre.
 
@@ -214,7 +214,7 @@ Les animaux préhistoriques ne doivent pas être automatiquement plus puissants 
 - Privilégier une expérience cohérente et réalisable plutôt que multiplier les systèmes.
 - Ne pas créer de règles complexes pour couvrir des cas hypothétiques très improbables.
 - Garder les décisions confirmées distinctes des propositions encore ouvertes.
-- Éviter de copier directement les noms, objets, personnages, interfaces ou structures emblématiques d’autres jeux.
+- Assumer les inspirations de game design issues de jeux de référence, notamment Pokémon pour la capture et les combats, sans chercher à réinventer systématiquement des mécaniques éprouvées. Préserver l’identité propre d’Overland dans son univers, ses animaux, son exploration, sa narration et la présentation de ses systèmes ; éviter la reprise directe d’éléments distinctifs tels que les noms, personnages ou habillages emblématiques.
 - Ne pas développer l’architecture technique avant d’avoir clarifié les besoins de jeu essentiels.
 
 ---
@@ -228,6 +228,6 @@ Ce document est la source de vérité du projet pendant la première phase. Tout
 - **Cadre et mystère** : grande île connue de longue date, célèbre pour ses animaux dotés de pouvoirs. Ces pouvoirs sont le seul phénomène mystérieux établi sur l’île.
 - **Civilisation ancienne et pierre** : direction narrative validée. Une civilisation à l’intelligence très avancée vivait sur l’île à la fin du Crétacé. Elle a créé une pierre magique pour conférer des pouvoirs aux animaux et se défendre. La pierre est restée active après la disparition de la civilisation, lors d’une catastrophe provoquée par une météorite il y a environ 66 millions d’années. Le cratère au centre de l’île est le vestige supposé de l’impact ; contrairement à la croyance commune, la météorite n’est pas la source des pouvoirs.
 - **Symboles et révélation** : le joueur découvre la pierre vers le milieu de l’aventure, puis apprend qu’il doit réunir dix symboles trouvés sur des ruines et/ou des talismans. Leur saisie déverrouille la pierre et déclenche une séquence révélant l’histoire de la civilisation, la catastrophe et le rôle de la pierre. Son fonctionnement magique restera inexpliqué.
-- **Protagoniste et chien** : protagoniste ordinaire venu enquêter ; chien venu de l’extérieur et compagnon permanent non échangeable. Le développement d’un pouvoir chez le chien après son arrivée est une piste narrative destinée à révéler que le phénomène pourrait agir activement sur les animaux.
+- **Protagoniste et chien** : protagoniste ordinaire venu enquêter ; chien venu de l’extérieur et compagnon permanent non échangeable. Le chien accompagne d’abord le protagoniste, puis développe progressivement des pouvoirs et devient l’un de ses animaux de combat. Cette évolution révèle qu’un animal né hors de l’île peut acquérir des pouvoirs après son arrivée.
 - **Début de l’aventure** : le jeu commence au port de l’île, dans une ambiance calme et accueillante. Le protagoniste appelle son père pour confirmer son arrivée ; d’autres appels pourront rapporter ses découvertes. Un contact scientifique déjà connu à distance l’accueille et l’a aidé à préparer son séjour. Ce contact travaille dans un laboratoire situé dans une ville qui sera découverte plus tard. La première excursion et les détails de cette introduction restent à concevoir.
 - **Capture et stockage** : appareil technologique unique, charges consommables à chaque tentative, capacité de transport de six animaux et stockage distant pour les captures supplémentaires.
