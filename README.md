@@ -15,7 +15,7 @@ Overland est un projet de jeu vidéo personnel (« homemade »), conçu pour êt
 ### Validé
 
 - RPG d’aventure **2D en vue de dessus**, avec une direction artistique en pixel art relativement fin et lisible.
-- Aventure solo, avec une durée cible indicative de **6 à 10 heures**.
+- Aventure solo, avec une durée visée indicative d’environ **15 à 20 heures** pour l’aventure principale et l’exploration associée. Le contenu sera développé progressivement, en commençant par une première portion jouable ; cette durée pourra évoluer selon la richesse du monde et le rythme de développement.
 - Exploration d’un monde composé de villes et villages, routes, forêts, montagnes, grottes, zones côtières et lieux abandonnés.
 - Rencontres, capture et entraînement d’animaux dotés de pouvoirs élémentaires.
 - Combats tactiques au tour par tour contre des animaux sauvages et des personnages possédant leur propre équipe.
