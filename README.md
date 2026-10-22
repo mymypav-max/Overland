@@ -178,6 +178,15 @@ Les animaux préhistoriques ne doivent pas être automatiquement plus puissants 
 - Les relations entre personnages, les rencontres récurrentes et les rivalités peuvent participer à l’aventure.
 - Le laboratoire et la recherche sur les fossiles pourront avoir un rôle narratif.
 
+### Début de l’aventure — direction validée
+
+- Le jeu commence **directement sur l’île, au niveau du port**, afin de montrer clairement que le protagoniste vient d’arriver.
+- L’ambiance du début est calme, chaleureuse et accueillante. La présence d’animaux dotés de pouvoirs ne rend pas l’île globalement hostile ; certains lieux pourront présenter des dangers particuliers, mais l’exploration ordinaire doit rester paisible.
+- Peu après son arrivée, le protagoniste peut appeler son père pour lui confirmer qu’il est arrivé et qu’il va commencer à enquêter sur le mystère des pouvoirs animaux. D’autres appels pourront ponctuer l’aventure afin de lui raconter les découvertes du protagoniste.
+- Une personne travaillant dans le domaine scientifique attend le protagoniste au port. Ils ont déjà communiqué par téléphone ou messagerie avant le voyage, et ce contact l’a aidé à préparer son séjour.
+- Ce contact travaille dans un laboratoire ou en est responsable. **Le laboratoire se trouve dans une ville que le joueur découvrira plus tard** : il ne fait donc pas partie du lieu de départ et n’est pas visité au début de l’aventure.
+- Le contact scientifique aide le protagoniste à prendre ses premiers repères et à commencer l’exploration. La première destination exacte après le port reste à définir.
+
 ### À concevoir
 
 - Le nom, la personnalité, la profession exacte et l’histoire personnelle du protagoniste.
@@ -220,4 +229,5 @@ Ce document est la source de vérité du projet pendant la première phase. Tout
 - **Civilisation ancienne et pierre** : direction narrative validée. Une civilisation à l’intelligence très avancée vivait sur l’île à la fin du Crétacé. Elle a créé une pierre magique pour conférer des pouvoirs aux animaux et se défendre. La pierre est restée active après la disparition de la civilisation, lors d’une catastrophe provoquée par une météorite il y a environ 66 millions d’années. Le cratère au centre de l’île est le vestige supposé de l’impact ; contrairement à la croyance commune, la météorite n’est pas la source des pouvoirs.
 - **Symboles et révélation** : le joueur découvre la pierre vers le milieu de l’aventure, puis apprend qu’il doit réunir dix symboles trouvés sur des ruines et/ou des talismans. Leur saisie déverrouille la pierre et déclenche une séquence révélant l’histoire de la civilisation, la catastrophe et le rôle de la pierre. Son fonctionnement magique restera inexpliqué.
 - **Protagoniste et chien** : protagoniste ordinaire venu enquêter ; chien venu de l’extérieur et compagnon permanent non échangeable. Le développement d’un pouvoir chez le chien après son arrivée est une piste narrative destinée à révéler que le phénomène pourrait agir activement sur les animaux.
+- **Début de l’aventure** : le jeu commence au port de l’île, dans une ambiance calme et accueillante. Le protagoniste appelle son père pour confirmer son arrivée ; d’autres appels pourront rapporter ses découvertes. Un contact scientifique déjà connu à distance l’accueille et l’a aidé à préparer son séjour. Ce contact travaille dans un laboratoire situé dans une ville qui sera découverte plus tard. La première excursion et les détails de cette introduction restent à concevoir.
 - **Capture et stockage** : appareil technologique unique, charges consommables à chaque tentative, capacité de transport de six animaux et stockage distant pour les captures supplémentaires.
