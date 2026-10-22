@@ -1,0 +1,26 @@
+# Système
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Fichiers temporaires et journaux
+*.log
+.tmp/
+temp/
+
+# Sorties de build et dépendances (à adapter au moteur retenu)
+build/
+dist/
+out/
+node_modules/
+
+# Fichiers locaux d'environnement
+.env
+.env.*
+!.env.example
