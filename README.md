@@ -54,7 +54,8 @@ Overland est un projet de jeu vidéo personnel (« homemade »), conçu pour êt
 - Le fonctionnement exact de la pierre restera un mystère. Le récit doit révéler son rôle dans l’origine des pouvoirs, sans imposer d’explication technique ou scientifique à sa magie.
 - Une météorite a frappé l’île et provoqué la catastrophe qui a entraîné la disparition de la civilisation. Le cratère central en serait le vestige. La météorite n’est toutefois **pas** la source des pouvoirs animaux.
 - Le protagoniste découvrira des symboles gravés sur des ruines et/ou portés par des talismans. Ces découvertes permettront progressivement de comprendre comment déverrouiller la pierre.
-- La pierre sera découverte vers le milieu de l’aventure. Le joueur comprendra alors qu’il doit retrouver **dix symboles** pour la déverrouiller, ce qui donne un objectif à long terme sans révéler trop tôt toute l’explication.
+- La pierre sera découverte vers le milieu de l’aventure, et non à la fin. Le joueur comprendra alors qu’il doit retrouver **dix symboles** pour la déverrouiller, ce qui donne un objectif à long terme sans révéler trop tôt toute l’explication.
+- La piste narrative retenue pour sa découverte est que la pierre est dissimulée derrière une roche et des restes fossilisés d’un ou plusieurs membres de la civilisation ancienne, qui se seraient sacrifiés pour la protéger et la cacher lors de la catastrophe. Des parties de ces restes auraient déjà été étudiées par les scientifiques, mais leur disposition d’ensemble aurait été interprétée comme une formation naturelle ou des fossiles atypiques sans que leur rôle soit compris.
 - Une fois les dix symboles réunis et saisis sur la pierre, une séquence narrative révélera l’existence de la civilisation ancienne, la fonction défensive de la pierre, la catastrophe météoritique et la véritable origine des pouvoirs animaux.
 
 ### À concevoir
@@ -62,6 +63,7 @@ Overland est un projet de jeu vidéo personnel (« homemade »), conçu pour êt
 - La carte, les régions, leur ordre de découverte et leurs particularités.
 - La place des villes, laboratoires, ruines et autres lieux importants dans le récit.
 - La répartition des dix symboles, leurs indices et la façon dont le joueur les saisit sur la pierre.
+- Le moyen concret de dégager la roche et les restes qui dissimulent la pierre. Une attaque spéciale d’un animal, capable de briser l’obstacle, est une piste de gameplay à examiner, pas encore une décision définitive.
 - Le contenu précis de la séquence de révélation finale et les détails de l’histoire ancienne.
 
 ## 3. Les animaux
@@ -313,6 +315,7 @@ Une forme spéciale reste rattachée à sa lignée moderne compatible ; elle ne 
 - Le chien est un **compagnon permanent et non échangeable**, présent tout au long de l’aventure. Il occupe une place particulière dans l’équipe et dans la relation avec le protagoniste.
 - Après avoir passé un certain temps sur l’île, le chien développe progressivement des pouvoirs. Ce changement constitue un indice concret qu’un animal né à l’extérieur peut lui aussi acquérir des pouvoirs après son arrivée sur l’île.
 - Le changement du chien est un élément de découverte important pour le protagoniste, mais pas la raison initiale de sa venue ni une explication complète du mystère.
+- Lorsqu’il arrive devant le site où la pierre est dissimulée derrière la roche et les restes fossilisés de membres de la civilisation ancienne, le chien adopte un comportement inhabituel et difficile à expliquer. Comme il a déjà commencé à développer ses pouvoirs sur l’île, le protagoniste soupçonne un lien entre cette réaction, les fossiles et le phénomène des pouvoirs animaux. La réaction reste inexpliquée à ce stade et sert d’indice ; elle ne révèle pas automatiquement la pierre.
 - Les relations entre personnages, les rencontres récurrentes et les rivalités peuvent participer à l’aventure.
 - Le laboratoire et la recherche sur les fossiles pourront avoir un rôle narratif.
 
@@ -330,6 +333,7 @@ Une forme spéciale reste rattachée à sa lignée moderne compatible ; elle ne 
 - Le nom, la personnalité, la profession exacte et l’histoire personnelle du protagoniste.
 - L’espèce, la personnalité et les pouvoirs du chien, ainsi que le rythme et le moment précis de leur apparition.
 - Le déroulement détaillé de l’enquête, les personnages importants, les éventuelles factions, l’antagoniste et la conclusion.
+- La scène précise de découverte de la pierre, le comportement exact du chien et le moyen de dégager l’obstacle rocheux.
 - Les détails précis de la civilisation ancienne et de la séquence finale, sans chercher à expliquer le fonctionnement magique de la pierre.
 
 ## 10. Plateforme et contraintes de réalisation
@@ -365,7 +369,7 @@ Ce document est la source de vérité du projet pendant la première phase. Tout
 - **Durée cible** : environ 15 à 20 heures pour l’aventure principale et l’exploration associée, avec un développement progressif à partir d’une première portion jouable.
 - **Cadre et mystère** : grande île connue de longue date, célèbre pour ses animaux dotés de pouvoirs. Ces pouvoirs sont le seul phénomène mystérieux établi sur l’île.
 - **Civilisation ancienne et pierre** : direction narrative validée. Une civilisation à l’intelligence très avancée vivait sur l’île à la fin du Crétacé. Elle a créé une pierre magique pour conférer des pouvoirs aux animaux et se défendre. La pierre est restée active après la disparition de la civilisation, lors d’une catastrophe provoquée par une météorite il y a environ 66 millions d’années. Le cratère au centre de l’île est le vestige supposé de l’impact ; contrairement à la croyance commune, la météorite n’est pas la source des pouvoirs.
-- **Symboles et révélation** : le joueur découvre la pierre vers le milieu de l’aventure, puis apprend qu’il doit réunir dix symboles trouvés sur des ruines et/ou des talismans. Leur saisie déverrouille la pierre et déclenche une séquence révélant l’histoire de la civilisation, la catastrophe et le rôle de la pierre. Son fonctionnement magique restera inexpliqué.
+- **Symboles et révélation** : le joueur découvre la pierre vers le milieu de l’aventure, puis apprend qu’il doit réunir dix symboles trouvés sur des ruines et/ou des talismans. Leur saisie déverrouille la pierre et déclenche une séquence révélant l’histoire de la civilisation, la catastrophe et le rôle de la pierre. Son fonctionnement magique restera inexpliqué. La piste retenue pour sa découverte est que la pierre est dissimulée derrière une roche et des restes fossilisés d’un ou plusieurs membres de la civilisation ancienne, qui se seraient sacrifiés pour la protéger et la cacher lors de la catastrophe. Des fragments auraient déjà été étudiés sans que leur disposition et leur rôle soient compris. Le chien, qui a déjà commencé à développer ses pouvoirs, réagit de manière inhabituelle devant le site et pousse le protagoniste à s’y intéresser ; cette réaction reste inexpliquée et sert d’indice. Une attaque spéciale capable de dégager l’obstacle rocheux reste une piste de gameplay à examiner.
 - **Protagoniste et chien** : protagoniste ordinaire venu enquêter ; chien venu de l’extérieur et compagnon permanent non échangeable. Le chien accompagne d’abord le protagoniste, puis développe progressivement des pouvoirs et devient l’un de ses animaux de combat. Cette évolution révèle qu’un animal né hors de l’île peut acquérir des pouvoirs après son arrivée.
 - **Début de l’aventure** : le jeu commence au port de l’île, dans une ambiance calme et accueillante. Le protagoniste appelle son père pour confirmer son arrivée ; d’autres appels pourront rapporter ses découvertes. Un contact scientifique déjà connu à distance l’accueille et l’a aidé à préparer son séjour. Ce contact travaille dans un laboratoire situé dans une ville qui sera découverte plus tard. La première excursion et les détails de cette introduction restent à concevoir.
 - **Capture et stockage** : appareil technologique unique, charges consommables à chaque tentative, capacité de transport de six animaux et stockage distant pour les captures supplémentaires.
