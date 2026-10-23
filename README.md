@@ -184,7 +184,7 @@ Deux systèmes distincts sont prévus.
 
 Les animaux préhistoriques ne doivent pas être automatiquement plus puissants que les animaux modernes. Les types, techniques, caractéristiques et rôles tactiques doivent préserver l’intérêt des différentes espèces.
 
-## Catalogue animalier — propositions en cours
+## 7. Catalogue animalier — propositions en cours
 
 > **Statut : catalogue de travail, non validé dans son ensemble.** Les espèces ci-dessous sont des candidates issues des échanges de conception. Leur présence dans cette liste ne signifie pas qu’elles sont définitivement retenues. Les choix explicitement approuvés sont signalés séparément. Le catalogue pourra dépasser l’objectif initial de 40 à 60 espèces si la variété obtenue le justifie.
 
