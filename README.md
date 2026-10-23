@@ -101,10 +101,22 @@ Cette liste initiale pourra évoluer ; elle ne fixe pas encore le tableau des fo
 - Si tous les animaux du joueur sont mis KO lors d’un combat contre un dresseur, le combat est perdu et le joueur est automatiquement renvoyé dans un centre de santé, où les PV et les utilisations des attaques de ses animaux sont restaurés.
 - Si tous les animaux du dresseur adverse sont mis KO, le joueur remporte le combat et gagne de l’argent.
 
+### Caractéristiques des animaux — validé
+
+Chaque animal possède six caractéristiques de combat :
+
+- **PV** : quantité de dégâts que l’animal peut subir avant d’être mis KO.
+- **Attaque** : utilisée pour calculer les dégâts des attaques physiques.
+- **Défense** : utilisée pour calculer les dégâts subis des attaques physiques.
+- **Attaque spéciale** : utilisée pour calculer les dégâts des attaques spéciales.
+- **Défense spéciale** : utilisée pour calculer les dégâts subis des attaques spéciales.
+- **Vitesse** : caractéristique disponible pour le système de combat ; son éventuel rôle dans l’ordre des actions reste à décider.
+
+Les PV augmentent à chaque niveau gagné. La formule exacte d’évolution des PV et des autres caractéristiques avec le niveau reste à concevoir.
+
 ### À concevoir
 
-- Les caractéristiques de combat en plus des PV : attaque, défense, vitesse et éventuelles caractéristiques supplémentaires.
-- La formule de dégâts, en s’inspirant de Pokémon : dans les jeux principaux récents, elle part du niveau de l’attaquant, de la puissance de l’attaque et du rapport entre sa statistique offensive (Attaque ou Attaque spéciale) et la statistique défensive correspondante (Défense ou Défense spéciale). Les dégâts sont ensuite modifiés par différents facteurs, notamment l’efficacité du type, le bonus lié au type de l’utilisateur, les coups critiques et une variation aléatoire. La formule exacte et les facteurs retenus pour Overland restent à définir.
+- La formule de dégâts, en s’inspirant de Pokémon : elle devra notamment prendre en compte le niveau de l’attaquant, la puissance de l’attaque et les caractéristiques offensives et défensives correspondantes. Les autres modificateurs éventuels (efficacité du type, bonus de type, coups critiques et variation aléatoire) restent à décider.
 - L’ordre des actions pendant les combats, notamment contre les dresseurs : le choix entre un ordre déterminé par les caractéristiques des animaux (comme la vitesse), un tirage au sort ou une autre règle reste à trancher.
 - La taille de l’équipe de combat et les règles détaillées de gestion de l’équipe.
 - Le tableau des forces et faiblesses entre types élémentaires.
@@ -256,4 +268,4 @@ Ce document est la source de vérité du projet pendant la première phase. Tout
 - **Début de l’aventure** : le jeu commence au port de l’île, dans une ambiance calme et accueillante. Le protagoniste appelle son père pour confirmer son arrivée ; d’autres appels pourront rapporter ses découvertes. Un contact scientifique déjà connu à distance l’accueille et l’a aidé à préparer son séjour. Ce contact travaille dans un laboratoire situé dans une ville qui sera découverte plus tard. La première excursion et les détails de cette introduction restent à concevoir.
 - **Capture et stockage** : appareil technologique unique, charges consommables à chaque tentative, capacité de transport de six animaux et stockage distant pour les captures supplémentaires.
 - **Attaques et progression des animaux** : chaque animal possède un niveau et des PV qui augmentent à chaque niveau gagné. Quatre attaques au maximum par animal, chacune ayant sa propre puissance, son risque d’échec et son nombre d’utilisations. Les animaux peuvent connaître moins d’attaques à bas niveau ; chaque espèce apprend de nouvelles attaques à des niveaux qui lui sont propres. Si les quatre emplacements sont occupés, une nouvelle attaque peut remplacer une attaque connue. Des objets d’apprentissage inspirés du principe des CT/CS de Pokémon sont envisagés, en nombre limité ; leurs détails restent à concevoir.
-- **Règles de combat** : contre un animal sauvage, le joueur joue en premier ; mettre l’adversaire KO termine le combat et rapporte de l’expérience à l’animal du joueur. La capture exige des PV faibles ou un état tel que le sommeil ou l’empoisonnement. Contre un dresseur, le joueur doit remplacer tout animal KO tant qu’il en reste d’aptes au combat ; si toute son équipe est KO, il est renvoyé dans un centre de santé pour restaurer PV et utilisations d’attaques. Mettre toute l’équipe adverse KO fait gagner le combat et de l’argent. L’ordre des actions contre les dresseurs et les détails des dégâts restent à concevoir.
+- **Caractéristiques et règles de combat** : six caractéristiques par animal (PV, Attaque, Défense, Attaque spéciale, Défense spéciale et Vitesse). Les PV augmentent à chaque niveau gagné. Contre un animal sauvage, le joueur joue en premier ; mettre l’adversaire KO termine le combat et rapporte de l’expérience à l’animal du joueur. La capture exige des PV faibles ou un état tel que le sommeil ou l’empoisonnement. Contre un dresseur, le joueur doit remplacer tout animal KO tant qu’il en reste d’aptes au combat ; si toute son équipe est KO, il est renvoyé dans un centre de santé pour restaurer PV et utilisations d’attaques. Mettre toute l’équipe adverse KO fait gagner le combat et de l’argent. Le calcul précis des dégâts et l’ordre des actions contre les dresseurs restent à concevoir.
