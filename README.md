@@ -75,6 +75,7 @@ Overland est un projet de jeu vidéo personnel (« homemade »), conçu pour êt
 - Chaque espèce possède au minimum une forme jeune et une forme adulte.
 - Chaque espèce a son propre niveau d’évolution. À ce niveau, l’évolution vers la forme adulte se déclenche automatiquement.
 - Les espèces rencontrées dans les régions plus avancées sont généralement de niveau supérieur, afin que le joueur puisse renouveler ou renforcer son équipe sans devoir tout recommencer au niveau 1.
+- Chaque animal possède un **niveau** et des **points de vie (PV)**. Son nombre de PV augmente à chaque niveau gagné ; la formule exacte reste à définir.
 - Chaque animal peut connaître **quatre attaques au maximum**. Les animaux de bas niveau, notamment avant leur évolution, peuvent en connaître moins.
 - Chaque attaque possède sa propre puissance destructrice, son risque d’échec (précision) et un nombre limité d’utilisations.
 - Chaque espèce apprend certaines nouvelles attaques à des niveaux qui lui sont propres.
@@ -89,10 +90,28 @@ Overland est un projet de jeu vidéo personnel (« homemade »), conçu pour êt
 
 Cette liste initiale pourra évoluer ; elle ne fixe pas encore le tableau des forces et faiblesses.
 
+### Règles de combat — validé
+
+- Les combats se déroulent au tour par tour, en s’inspirant du modèle de Pokémon.
+- Lors d’un combat contre un animal sauvage, le joueur joue en premier.
+- Lorsqu’un animal sauvage adverse est mis KO, le combat prend fin et l’animal du joueur gagne de l’expérience.
+- Pour tenter de capturer un animal sauvage, il faut soit réduire ses PV à un niveau faible, soit lui infliger un état tel que le sommeil ou l’empoisonnement. Les seuils et probabilités précis restent à concevoir.
+- Contre un animal sauvage, le joueur peut choisir de changer d’animal ou de fuir. Si son animal actif est mis KO, il doit choisir un autre animal apte au combat ou fuir.
+- Contre un dresseur, si l’animal actif du joueur est mis KO, le joueur doit le remplacer tant qu’il lui reste des animaux aptes au combat ; il ne peut pas fuir le combat.
+- Si tous les animaux du joueur sont mis KO lors d’un combat contre un dresseur, le combat est perdu et le joueur est automatiquement renvoyé dans un centre de santé, où les PV et les utilisations des attaques de ses animaux sont restaurés.
+- Si tous les animaux du dresseur adverse sont mis KO, le joueur remporte le combat et gagne de l’argent.
+
 ### À concevoir
 
-- Les caractéristiques, techniques, rôles tactiques et règles détaillées de combat, en s’appuyant sur le modèle éprouvé du combat au tour par tour de Pokémon.
+- Les caractéristiques de combat en plus des PV : attaque, défense, vitesse et éventuelles caractéristiques supplémentaires.
+- La formule de dégâts, en s’inspirant de Pokémon : dans les jeux principaux récents, elle part du niveau de l’attaquant, de la puissance de l’attaque et du rapport entre sa statistique offensive (Attaque ou Attaque spéciale) et la statistique défensive correspondante (Défense ou Défense spéciale). Les dégâts sont ensuite modifiés par différents facteurs, notamment l’efficacité du type, le bonus lié au type de l’utilisateur, les coups critiques et une variation aléatoire. La formule exacte et les facteurs retenus pour Overland restent à définir.
+- L’ordre des actions contre les dresseurs. Une piste est un tirage au sort au début du combat (par exemple pile ou face) ; une autre serait de s’appuyer sur la vitesse des animaux, comme Pokémon.
 - La taille de l’équipe de combat et les règles détaillées de gestion de l’équipe.
+- Le tableau des forces et faiblesses entre types élémentaires.
+- Les effets de statut disponibles (sommeil, empoisonnement, etc.), leur durée et leur fonctionnement.
+- Les conditions exactes de capture, notamment le seuil de PV et les chances de réussite selon l’état de l’animal.
+- La restauration des utilisations des attaques hors combat et les objets utilisables pendant les combats.
+- La répartition de l’expérience, la quantité d’expérience requise pour monter de niveau et l’éventuelle expérience accordée aux animaux mis KO.
 - Le catalogue des espèces et l’équilibrage entre elles.
 - Les objets permettant d’enseigner des attaques à un animal, sur un principe proche des CT/CS de Pokémon, mais avec un nombre volontairement limité de ces objets et de compétences enseignables. Leur nom, leur disponibilité et leurs règles d’utilisation restent à définir.
 - La progression des niveaux et les conditions exactes de rencontre.
@@ -236,4 +255,5 @@ Ce document est la source de vérité du projet pendant la première phase. Tout
 - **Protagoniste et chien** : protagoniste ordinaire venu enquêter ; chien venu de l’extérieur et compagnon permanent non échangeable. Le chien accompagne d’abord le protagoniste, puis développe progressivement des pouvoirs et devient l’un de ses animaux de combat. Cette évolution révèle qu’un animal né hors de l’île peut acquérir des pouvoirs après son arrivée.
 - **Début de l’aventure** : le jeu commence au port de l’île, dans une ambiance calme et accueillante. Le protagoniste appelle son père pour confirmer son arrivée ; d’autres appels pourront rapporter ses découvertes. Un contact scientifique déjà connu à distance l’accueille et l’a aidé à préparer son séjour. Ce contact travaille dans un laboratoire situé dans une ville qui sera découverte plus tard. La première excursion et les détails de cette introduction restent à concevoir.
 - **Capture et stockage** : appareil technologique unique, charges consommables à chaque tentative, capacité de transport de six animaux et stockage distant pour les captures supplémentaires.
-- **Attaques des animaux** : quatre attaques au maximum par animal, chacune ayant sa propre puissance, son risque d’échec et son nombre d’utilisations. Les animaux peuvent connaître moins d’attaques à bas niveau ; chaque espèce apprend de nouvelles attaques à des niveaux qui lui sont propres. Si les quatre emplacements sont occupés, une nouvelle attaque peut remplacer une attaque connue. Des objets d’apprentissage inspirés du principe des CT/CS de Pokémon sont envisagés, en nombre limité ; leurs détails restent à concevoir.
+- **Attaques et progression des animaux** : chaque animal possède un niveau et des PV qui augmentent à chaque niveau gagné. Quatre attaques au maximum par animal, chacune ayant sa propre puissance, son risque d’échec et son nombre d’utilisations. Les animaux peuvent connaître moins d’attaques à bas niveau ; chaque espèce apprend de nouvelles attaques à des niveaux qui lui sont propres. Si les quatre emplacements sont occupés, une nouvelle attaque peut remplacer une attaque connue. Des objets d’apprentissage inspirés du principe des CT/CS de Pokémon sont envisagés, en nombre limité ; leurs détails restent à concevoir.
+- **Règles de combat** : contre un animal sauvage, le joueur joue en premier ; mettre l’adversaire KO termine le combat et rapporte de l’expérience à l’animal du joueur. La capture exige des PV faibles ou un état tel que le sommeil ou l’empoisonnement. Contre un dresseur, le joueur doit remplacer tout animal KO tant qu’il en reste d’aptes au combat ; si toute son équipe est KO, il est renvoyé dans un centre de santé pour restaurer PV et utilisations d’attaques. Mettre toute l’équipe adverse KO fait gagner le combat et de l’argent. L’ordre des actions contre les dresseurs et les détails des dégâts restent à concevoir.
