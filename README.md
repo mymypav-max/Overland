@@ -154,7 +154,7 @@ Les PV augmentent à chaque niveau gagné. La formule exacte d’évolution des 
 
 - L’évolution jeune → adulte est automatique au niveau propre à chaque espèce.
 - Certaines espèces pourront posséder une évolution spéciale supplémentaire, accessible sous une condition particulière.
-- Des fossiles spécifiques pourront débloquer une forme ancienne pour certains animaux modernes compatibles. Exemple de principe : un grand félin moderne pourrait accéder à une forme inspirée du Smilodon grâce à un fossile approprié. Il s’agit d’une transformation fictive, pas d’une affirmation selon laquelle le Smilodon serait l’ancêtre direct du tigre.
+- Des fossiles spécifiques pourront débloquer une forme ancienne pour certains animaux modernes compatibles. La lignée chat Bengal (forme jeune) → tigre du Bengale (forme adulte) pourra accéder à une forme ancestrale spéciale inspirée du Smilodon grâce à un fossile approprié. Il s’agit d’une transformation fictive, pas d’une affirmation selon laquelle le Smilodon serait l’ancêtre direct du tigre.
 - Ces évolutions spéciales ne seront pas accessibles à n’importe quelle espèce avec n’importe quel fossile.
 
 ### À concevoir
@@ -193,8 +193,8 @@ Les animaux préhistoriques ne doivent pas être automatiquement plus puissants 
 Chaque espèce retenue devra avoir au minimum une forme jeune et une forme adulte. Les pouvoirs, attaques, niveaux d’évolution et habitats restent à concevoir individuellement.
 
 **Mammifères**
-- Chat Bengal — piste privilégiée pour une lignée de chat.
-- Maine Coon — autre lignée féline candidate.
+- Maine Coon — lignée féline distincte, avec une forme jeune de chaton Maine Coon puis une forme adulte Maine Coon.
+- Chat Bengal → tigre du Bengale : lignée unique dont la forme jeune est un chat Bengal et la forme adulte un tigre du Bengale. Cette transformation fantastique est assumée ; le tigre du Bengale n’est pas compté comme une lignée de base séparée.
 - Chien de type dogue du Tibet — inspiration possible pour une lignée de chien puissante.
 - Renard roux.
 - Renard polaire.
@@ -213,6 +213,7 @@ Chaque espèce retenue devra avoir au minimum une forme jeune et une forme adult
 - Sanglier.
 - Panda roux.
 - Ornithorynque.
+- Loutre — ajout retenu comme candidate.
 
 **Oiseaux**
 - Pigeon biset.
@@ -226,7 +227,7 @@ Chaque espèce retenue devra avoir au minimum une forme jeune et une forme adult
 - Iguane vert.
 - Dragon de Komodo.
 - Cobra royal.
-- Python vert arboricole.
+- Crocodile — candidat destiné à remplacer le python vert arboricole ; l’espèce exacte reste à choisir.
 - Tortue alligator.
 
 **Animaux aquatiques et marins**
@@ -242,7 +243,7 @@ Chaque espèce retenue devra avoir au minimum une forme jeune et une forme adult
 **Invertébrés**
 - **Mante religieuse géante — piste conservée**, avec une forme adulte fantastiquement plus grande que l’animal réel.
 
-Le crabe-araignée géant a été évoqué, mais reste à réévaluer : la place globale des invertébrés dans le catalogue n’est pas encore convaincante. L’axolotl a été écarté. Le papillon Atlas n’est pas retenu dans cette liste de travail à ce stade.
+Le python vert arboricole est écarté afin d’éviter deux lignées de serpents ; un crocodile est étudié à sa place. Le crabe-araignée géant a été évoqué, mais reste à réévaluer : la place globale des invertébrés dans le catalogue n’est pas encore convaincante. L’axolotl a été écarté. Le papillon Atlas n’est pas retenu dans cette liste de travail à ce stade.
 
 ### B. Espèces préhistoriques — candidates à la résurrection
 
@@ -254,7 +255,8 @@ Ces espèces seraient obtenues sous forme jeune grâce à un fossile et au labor
 - Tyrannosaure.
 - **Psittacosaurus — candidat explicitement retenu**, en remplacement du Ptéranodon dans la liste de résurrection.
 - Mammouth laineux — candidat à confirmer.
-- Smilodon — candidat à confirmer ; son éventuelle place dans la résurrection ou uniquement dans les évolutions ancestrales reste ouverte.
+
+Le Smilodon est réservé à l’évolution ancestrale spéciale de la lignée chat Bengal → tigre du Bengale ; il n’est pas compté comme candidat à la résurrection.
 
 La liste doit encore être arbitrée et complétée pour atteindre l’objectif provisoire d’au moins six à sept espèces ressuscitables. Le Mégalocéros est pour l’instant associé à une évolution ancestrale du cerf élaphe, et le Ptéranodon à une évolution ancestrale du bec-en-sabot ; ils ne sont donc pas comptés ici comme espèces de résurrection retenues.
 
@@ -262,6 +264,7 @@ La liste doit encore être arbitrée et complétée pour atteindre l’objectif 
 
 Ces transformations sont fantastiques et ne supposent pas une relation d’ascendance biologique directe. Elles constituent des pistes de conception, pas encore un catalogue définitif.
 
+- Chat Bengal (forme jeune) → tigre du Bengale (forme adulte) → Smilodon (forme ancestrale spéciale débloquée par fossile). Le Smilodon est donc associé à la lignée du tigre du Bengale, et non retenu comme candidat distinct à la résurrection.
 - Cerf élaphe → forme inspirée du Mégalocéros.
 - Requin blanc → forme inspirée du Mégalodon.
 - Bec-en-sabot du Nil → forme inspirée du Ptéranodon.
@@ -363,5 +366,6 @@ Ce document est la source de vérité du projet pendant la première phase. Tout
 - **Capture et stockage** : appareil technologique unique, charges consommables à chaque tentative, capacité de transport de six animaux et stockage distant pour les captures supplémentaires.
 - **Attaques et progression des animaux** : chaque animal possède un niveau et des PV qui augmentent à chaque niveau gagné. Quatre attaques au maximum par animal, chacune ayant sa propre puissance, son risque d’échec et son nombre d’utilisations. Les animaux peuvent connaître moins d’attaques à bas niveau ; chaque espèce apprend de nouvelles attaques à des niveaux qui lui sont propres. Si les quatre emplacements sont occupés, une nouvelle attaque peut remplacer une attaque connue. Des objets d’apprentissage inspirés du principe des CT/CS de Pokémon sont envisagés, en nombre limité ; leurs détails restent à concevoir.
 - **Catalogue d’animaux** : objectif provisoire de 40 à 60 espèces de base. Avec au minimum une forme jeune et une forme adulte par espèce, cela représente environ 80 à 120 formes, hors éventuelles formes spéciales. Le volume pourra être ajusté au fil de la conception.
-- **Fossiles et catalogue préhistorique** : distinction confirmée entre fossiles de résurrection (qui donnent une espèce préhistorique distincte, obtenue jeune au laboratoire) et fossiles d’évolution ancestrale (qui débloquent une forme spéciale pour une espèce moderne compatible). Le Psittacosaurus remplace le Ptéranodon parmi les candidats à la résurrection. Associations d’évolution ancestrale proposées : cerf élaphe → Mégalocéros, requin blanc → Mégalodon, bec-en-sabot du Nil → forme inspirée du Ptéranodon. Le catalogue vise au moins six à sept espèces ressuscitables.
+- **Fossiles et catalogue préhistorique** : distinction confirmée entre fossiles de résurrection (qui donnent une espèce préhistorique distincte, obtenue jeune au laboratoire) et fossiles d’évolution ancestrale (qui débloquent une forme spéciale pour une espèce moderne compatible). Le Psittacosaurus remplace le Ptéranodon parmi les candidats à la résurrection. Le Smilodon est réservé à une forme ancestrale spéciale de la lignée chat Bengal → tigre du Bengale et n’est pas candidat à la résurrection. Autres associations proposées : cerf élaphe → Mégalocéros, requin blanc → Mégalodon, bec-en-sabot du Nil → forme inspirée du Ptéranodon. Le catalogue vise au moins six à sept espèces ressuscitables.
+- **Catalogue moderne — ajustements** : la loutre est ajoutée comme candidate. Le python vert arboricole est écarté pour éviter deux lignées de serpents ; un crocodile est envisagé à sa place, l’espèce exacte restant à choisir. La lignée chat Bengal → tigre du Bengale est une seule lignée : chat Bengal jeune, tigre du Bengale adulte, puis forme ancestrale inspirée du Smilodon accessible par fossile. Le Maine Coon reste une lignée distincte, avec un chaton Maine Coon puis sa forme adulte.
 - **Caractéristiques et règles de combat** : six caractéristiques par animal (PV, Attaque, Défense, Attaque spéciale, Défense spéciale et Vitesse). Les PV augmentent à chaque niveau gagné. Contre un animal sauvage, le joueur joue en premier ; mettre l’adversaire KO termine le combat et rapporte de l’expérience à l’animal du joueur. La capture exige des PV faibles ou un état tel que le sommeil ou l’empoisonnement. Contre un dresseur, le joueur doit remplacer tout animal KO tant qu’il en reste d’aptes au combat ; si toute son équipe est KO, il est renvoyé dans un centre de santé pour restaurer PV et utilisations d’attaques. Mettre toute l’équipe adverse KO fait gagner le combat et de l’argent. La formule de dégâts s’appuiera sur celle de Pokémon Rouge Feu / Vert Feuille, adaptée à Overland, avec une catégorie physique ou spéciale définie attaque par attaque. Les modificateurs et valeurs numériques restent à tester ; l’ordre des actions contre les dresseurs reste à concevoir.
