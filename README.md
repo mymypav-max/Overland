@@ -171,13 +171,14 @@ Deux systèmes distincts sont prévus.
 - Des fossiles découverts notamment dans les grottes pourront être apportés à un laboratoire accessible au cours de l’aventure.
 - Un scientifique pourra les utiliser pour faire renaître certaines espèces éteintes.
 - L’animal obtenu est une jeune forme qui se développe selon les mêmes règles générales que les autres animaux.
-- Exemple : un fossile de vélociraptor permettrait d’obtenir un jeune vélociraptor.
-- Toutes les espèces éteintes ne doivent pas nécessairement être ressuscitables.
+- Exemples de candidats à la résurrection : Vélociraptor et **Psittacosaurus**. Le Psittacosaurus est retenu à la place du Ptéranodon dans la liste de travail des espèces à ressusciter ; il s’agit d’un petit dinosaure herbivore à bec.
+- Toutes les espèces éteintes ne doivent pas nécessairement être ressuscitables. L’objectif provisoire est d’en sélectionner au moins six ou sept.
 
 ### B. Fossiles d’évolution ancestrale — validé
 
 - Certains fossiles servent à débloquer une forme ancienne particulière pour un animal moderne compatible.
 - Ils ne servent pas à ressusciter une espèce séparée : leur fonction est de permettre une évolution spéciale.
+- Associations proposées pour ce système : **cerf élaphe → forme inspirée du Mégalocéros**, **requin blanc → forme inspirée du Mégalodon**, et **bec-en-sabot du Nil → forme inspirée du Ptéranodon**. Ces transformations sont des choix fantastiques de conception, pas des affirmations d’ascendance biologique.
 
 ### Principe d’équilibrage — validé
 
@@ -269,4 +270,5 @@ Ce document est la source de vérité du projet pendant la première phase. Tout
 - **Capture et stockage** : appareil technologique unique, charges consommables à chaque tentative, capacité de transport de six animaux et stockage distant pour les captures supplémentaires.
 - **Attaques et progression des animaux** : chaque animal possède un niveau et des PV qui augmentent à chaque niveau gagné. Quatre attaques au maximum par animal, chacune ayant sa propre puissance, son risque d’échec et son nombre d’utilisations. Les animaux peuvent connaître moins d’attaques à bas niveau ; chaque espèce apprend de nouvelles attaques à des niveaux qui lui sont propres. Si les quatre emplacements sont occupés, une nouvelle attaque peut remplacer une attaque connue. Des objets d’apprentissage inspirés du principe des CT/CS de Pokémon sont envisagés, en nombre limité ; leurs détails restent à concevoir.
 - **Catalogue d’animaux** : objectif provisoire de 40 à 60 espèces de base. Avec au minimum une forme jeune et une forme adulte par espèce, cela représente environ 80 à 120 formes, hors éventuelles formes spéciales. Le volume pourra être ajusté au fil de la conception.
+- **Fossiles et catalogue préhistorique** : distinction confirmée entre fossiles de résurrection (qui donnent une espèce préhistorique distincte, obtenue jeune au laboratoire) et fossiles d’évolution ancestrale (qui débloquent une forme spéciale pour une espèce moderne compatible). Le Psittacosaurus remplace le Ptéranodon parmi les candidats à la résurrection. Associations d’évolution ancestrale proposées : cerf élaphe → Mégalocéros, requin blanc → Mégalodon, bec-en-sabot du Nil → forme inspirée du Ptéranodon. Le catalogue vise au moins six à sept espèces ressuscitables.
 - **Caractéristiques et règles de combat** : six caractéristiques par animal (PV, Attaque, Défense, Attaque spéciale, Défense spéciale et Vitesse). Les PV augmentent à chaque niveau gagné. Contre un animal sauvage, le joueur joue en premier ; mettre l’adversaire KO termine le combat et rapporte de l’expérience à l’animal du joueur. La capture exige des PV faibles ou un état tel que le sommeil ou l’empoisonnement. Contre un dresseur, le joueur doit remplacer tout animal KO tant qu’il en reste d’aptes au combat ; si toute son équipe est KO, il est renvoyé dans un centre de santé pour restaurer PV et utilisations d’attaques. Mettre toute l’équipe adverse KO fait gagner le combat et de l’argent. La formule de dégâts s’appuiera sur celle de Pokémon Rouge Feu / Vert Feuille, adaptée à Overland, avec une catégorie physique ou spéciale définie attaque par attaque. Les modificateurs et valeurs numériques restent à tester ; l’ordre des actions contre les dresseurs reste à concevoir.
