@@ -184,7 +184,100 @@ Deux systèmes distincts sont prévus.
 
 Les animaux préhistoriques ne doivent pas être automatiquement plus puissants que les animaux modernes. Les types, techniques, caractéristiques et rôles tactiques doivent préserver l’intérêt des différentes espèces.
 
-## 7. Exploration et progression
+## Catalogue animalier — propositions en cours
+
+> **Statut : catalogue de travail, non validé dans son ensemble.** Les espèces ci-dessous sont des candidates issues des échanges de conception. Leur présence dans cette liste ne signifie pas qu’elles sont définitivement retenues. Les choix explicitement approuvés sont signalés séparément. Le catalogue pourra dépasser l’objectif initial de 40 à 60 espèces si la variété obtenue le justifie.
+
+### A. Animaux modernes — pistes
+
+Chaque espèce retenue devra avoir au minimum une forme jeune et une forme adulte. Les pouvoirs, attaques, niveaux d’évolution et habitats restent à concevoir individuellement.
+
+**Mammifères**
+- Chat Bengal — piste privilégiée pour une lignée de chat.
+- Maine Coon — autre lignée féline candidate.
+- Chien de type dogue du Tibet — inspiration possible pour une lignée de chien puissante.
+- Renard roux.
+- Renard polaire.
+- Lion.
+- Tigre du Bengale.
+- Léopard des neiges.
+- Ours brun.
+- Ours polaire.
+- Kangourou roux.
+- Capybara.
+- Rat brun.
+- Écureuil roux.
+- Tatou à neuf bandes.
+- Pangolin indien.
+- Cerf élaphe — candidat lié à une évolution ancestrale inspirée du Mégalocéros.
+- Sanglier.
+- Panda roux.
+- Ornithorynque.
+
+**Oiseaux**
+- Pigeon biset.
+- Pie bavarde.
+- Aigle royal.
+- Chouette effraie.
+- Casoar à casque.
+- Bec-en-sabot du Nil — candidat lié à une évolution ancestrale inspirée du Ptéranodon.
+
+**Reptiles et autres animaux à sang froid**
+- Iguane vert.
+- Dragon de Komodo.
+- Cobra royal.
+- Python vert arboricole.
+- Tortue alligator.
+
+**Animaux aquatiques et marins**
+- Carpe koï.
+- Anguille électrique.
+- Poisson-lune.
+- Méduse à crinière de lion.
+- **Poulpe géant du Pacifique — piste explicitement conservée.**
+- Hippocampe.
+- Requin blanc — candidat lié à une évolution ancestrale inspirée du Mégalodon.
+- Orque.
+
+**Invertébrés**
+- **Mante religieuse géante — piste conservée**, avec une forme adulte fantastiquement plus grande que l’animal réel.
+
+Le crabe-araignée géant a été évoqué, mais reste à réévaluer : la place globale des invertébrés dans le catalogue n’est pas encore convaincante. L’axolotl a été écarté. Le papillon Atlas n’est pas retenu dans cette liste de travail à ce stade.
+
+### B. Espèces préhistoriques — candidates à la résurrection
+
+Ces espèces seraient obtenues sous forme jeune grâce à un fossile et au laboratoire, puis progresseraient selon les règles générales.
+
+- Vélociraptor.
+- Tricératops.
+- Stégosaure.
+- Tyrannosaure.
+- **Psittacosaurus — candidat explicitement retenu**, en remplacement du Ptéranodon dans la liste de résurrection.
+- Mammouth laineux — candidat à confirmer.
+- Smilodon — candidat à confirmer ; son éventuelle place dans la résurrection ou uniquement dans les évolutions ancestrales reste ouverte.
+
+La liste doit encore être arbitrée et complétée pour atteindre l’objectif provisoire d’au moins six à sept espèces ressuscitables. Le Mégalocéros est pour l’instant associé à une évolution ancestrale du cerf élaphe, et le Ptéranodon à une évolution ancestrale du bec-en-sabot ; ils ne sont donc pas comptés ici comme espèces de résurrection retenues.
+
+### C. Évolutions ancestrales liées aux fossiles — associations proposées
+
+Ces transformations sont fantastiques et ne supposent pas une relation d’ascendance biologique directe. Elles constituent des pistes de conception, pas encore un catalogue définitif.
+
+- Cerf élaphe → forme inspirée du Mégalocéros.
+- Requin blanc → forme inspirée du Mégalodon.
+- Bec-en-sabot du Nil → forme inspirée du Ptéranodon.
+
+Une forme spéciale reste rattachée à sa lignée moderne compatible ; elle ne compte pas automatiquement comme une espèce de base supplémentaire. D’autres associations pourront être proposées après validation des lignées modernes et des espèces préhistoriques.
+
+### D. Principes de sélection du catalogue
+
+- Privilégier des animaux réels reconnaissables et visuellement distincts, plutôt que de multiplier des espèces très similaires.
+- Des espèces moins communes ou plus singulières peuvent être préférées à des choix génériques lorsque cela enrichit le catalogue.
+- Les formes évoluées peuvent devenir plus grandes, changer nettement de silhouette ou s’inspirer de créatures légendaires, à condition de conserver un lien visuel lisible avec l’animal de départ.
+- Le jeu n’a pas vocation à être une encyclopédie scientifique : certaines évolutions et associations fossiles peuvent être librement fantastiques.
+- La répartition par habitat doit rester cohérente quand cela améliore la lisibilité du monde, sans imposer un réalisme écologique strict à chaque rencontre.
+- Les espèces, évolutions, attaques, pouvoirs et équilibres restent à valider individuellement.
+
+## 8. Exploration et progression
 
 ### Validé
 
@@ -201,7 +294,7 @@ Les animaux préhistoriques ne doivent pas être automatiquement plus puissants 
 - Les événements, objectifs et récompenses qui ouvriront l’accès aux nouvelles régions.
 - Les moyens de déplacement et les éventuels raccourcis entre lieux déjà visités.
 
-## 8. Histoire et personnages
+## 9. Histoire et personnages
 
 ### Validé
 
@@ -231,7 +324,7 @@ Les animaux préhistoriques ne doivent pas être automatiquement plus puissants 
 - Le déroulement détaillé de l’enquête, les personnages importants, les éventuelles factions, l’antagoniste et la conclusion.
 - Les détails précis de la civilisation ancienne et de la séquence finale, sans chercher à expliquer le fonctionnement magique de la pierre.
 
-## 9. Plateforme et contraintes de réalisation
+## 10. Plateforme et contraintes de réalisation
 
 ### Validé
 
@@ -246,7 +339,7 @@ Les animaux préhistoriques ne doivent pas être automatiquement plus puissants 
 - La résolution, les dimensions des sprites, l’interface et les contrôles exacts.
 - La plateforme cible définitive et la stratégie de test sur la borne.
 
-## 10. Principes de conception
+## 11. Principes de conception
 
 - Privilégier une expérience cohérente et réalisable plutôt que multiplier les systèmes.
 - Ne pas créer de règles complexes pour couvrir des cas hypothétiques très improbables.
