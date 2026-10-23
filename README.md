@@ -75,6 +75,10 @@ Overland est un projet de jeu vidéo personnel (« homemade »), conçu pour êt
 - Chaque espèce possède au minimum une forme jeune et une forme adulte.
 - Chaque espèce a son propre niveau d’évolution. À ce niveau, l’évolution vers la forme adulte se déclenche automatiquement.
 - Les espèces rencontrées dans les régions plus avancées sont généralement de niveau supérieur, afin que le joueur puisse renouveler ou renforcer son équipe sans devoir tout recommencer au niveau 1.
+- Chaque animal peut connaître **quatre attaques au maximum**. Les animaux de bas niveau, notamment avant leur évolution, peuvent en connaître moins.
+- Chaque attaque possède sa propre puissance destructrice, son risque d’échec (précision) et un nombre limité d’utilisations.
+- Chaque espèce apprend certaines nouvelles attaques à des niveaux qui lui sont propres.
+- Si un animal connaît déjà quatre attaques lorsqu’il peut en apprendre une nouvelle, le joueur peut remplacer l’une des attaques existantes par la nouvelle.
 
 ### Types élémentaires envisagés
 
@@ -90,6 +94,7 @@ Cette liste initiale pourra évoluer ; elle ne fixe pas encore le tableau des fo
 - Les caractéristiques, techniques, rôles tactiques et règles détaillées de combat, en s’appuyant sur le modèle éprouvé du combat au tour par tour de Pokémon.
 - La taille de l’équipe de combat et les règles détaillées de gestion de l’équipe.
 - Le catalogue des espèces et l’équilibrage entre elles.
+- Les objets permettant d’enseigner des attaques à un animal, sur un principe proche des CT/CS de Pokémon, mais avec un nombre volontairement limité de ces objets et de compétences enseignables. Leur nom, leur disponibilité et leurs règles d’utilisation restent à définir.
 - La progression des niveaux et les conditions exactes de rencontre.
 
 ## 4. Capture et stockage des animaux
@@ -231,3 +236,4 @@ Ce document est la source de vérité du projet pendant la première phase. Tout
 - **Protagoniste et chien** : protagoniste ordinaire venu enquêter ; chien venu de l’extérieur et compagnon permanent non échangeable. Le chien accompagne d’abord le protagoniste, puis développe progressivement des pouvoirs et devient l’un de ses animaux de combat. Cette évolution révèle qu’un animal né hors de l’île peut acquérir des pouvoirs après son arrivée.
 - **Début de l’aventure** : le jeu commence au port de l’île, dans une ambiance calme et accueillante. Le protagoniste appelle son père pour confirmer son arrivée ; d’autres appels pourront rapporter ses découvertes. Un contact scientifique déjà connu à distance l’accueille et l’a aidé à préparer son séjour. Ce contact travaille dans un laboratoire situé dans une ville qui sera découverte plus tard. La première excursion et les détails de cette introduction restent à concevoir.
 - **Capture et stockage** : appareil technologique unique, charges consommables à chaque tentative, capacité de transport de six animaux et stockage distant pour les captures supplémentaires.
+- **Attaques des animaux** : quatre attaques au maximum par animal, chacune ayant sa propre puissance, son risque d’échec et son nombre d’utilisations. Les animaux peuvent connaître moins d’attaques à bas niveau ; chaque espèce apprend de nouvelles attaques à des niveaux qui lui sont propres. Si les quatre emplacements sont occupés, une nouvelle attaque peut remplacer une attaque connue. Des objets d’apprentissage inspirés du principe des CT/CS de Pokémon sont envisagés, en nombre limité ; leurs détails restent à concevoir.
