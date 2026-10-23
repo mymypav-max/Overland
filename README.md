@@ -105,7 +105,7 @@ Cette liste initiale pourra évoluer ; elle ne fixe pas encore le tableau des fo
 
 - Les caractéristiques de combat en plus des PV : attaque, défense, vitesse et éventuelles caractéristiques supplémentaires.
 - La formule de dégâts, en s’inspirant de Pokémon : dans les jeux principaux récents, elle part du niveau de l’attaquant, de la puissance de l’attaque et du rapport entre sa statistique offensive (Attaque ou Attaque spéciale) et la statistique défensive correspondante (Défense ou Défense spéciale). Les dégâts sont ensuite modifiés par différents facteurs, notamment l’efficacité du type, le bonus lié au type de l’utilisateur, les coups critiques et une variation aléatoire. La formule exacte et les facteurs retenus pour Overland restent à définir.
-- L’ordre des actions contre les dresseurs. Une piste est un tirage au sort au début du combat (par exemple pile ou face) ; une autre serait de s’appuyer sur la vitesse des animaux, comme Pokémon.
+- L’ordre des actions pendant les combats, notamment contre les dresseurs : le choix entre un ordre déterminé par les caractéristiques des animaux (comme la vitesse), un tirage au sort ou une autre règle reste à trancher.
 - La taille de l’équipe de combat et les règles détaillées de gestion de l’équipe.
 - Le tableau des forces et faiblesses entre types élémentaires.
 - Les effets de statut disponibles (sommeil, empoisonnement, etc.), leur durée et leur fonctionnement.
