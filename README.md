@@ -203,7 +203,7 @@ Chaque lignée retenue devra avoir au minimum un stade jeune et un stade adulte.
 - Renard polaire.
 - Lion.
 - Léopard des neiges.
-- Ours brun.
+- Ours brun — candidat pour la capacité de terrain permettant de briser certains rochers.
 - Ours polaire.
 - Kangourou roux.
 - Capybara.
@@ -212,7 +212,8 @@ Chaque lignée retenue devra avoir au minimum un stade jeune et un stade adulte.
 - Tatou à neuf bandes.
 - Pangolin indien.
 - Cerf élaphe — candidat lié à une évolution ancestrale inspirée du Mégalocéros.
-- Sanglier.
+- Sanglier — candidat pour la capacité de terrain permettant de briser certains rochers.
+- Gorille — espèce candidate ajoutée au catalogue de travail ; sa forme jeune pourrait être une autre espèce de singe (par exemple un macaque ou un gibbon) évoluant vers un gorille adulte, mais ce choix reste ouvert.
 - Panda roux.
 - Ornithorynque.
 - Loutre — candidate retenue ; progression standard d’une jeune loutre vers une loutre adulte plus puissante, sans changement d’espèce.
@@ -292,7 +293,7 @@ Une forme spéciale reste rattachée à sa lignée moderne compatible ; elle ne 
 ### Validé
 
 - L’exploration du monde et la découverte de nouvelles régions font partie du cœur du jeu.
-- Une capacité de terrain unique permet de briser certains rochers et obstacles rocheux afin de libérer des passages dans l’aventure. Cette même capacité permettra de dégager la roche et les restes fossilisés qui dissimulent la Pierre.
+- Une capacité de terrain unique permet de briser certains rochers et obstacles rocheux afin de libérer des passages dans l’aventure. Cette même capacité permettra de dégager la roche et les restes fossilisés qui dissimulent la Pierre. Le rhinocéros, l’ours brun, l’éléphant d’Afrique et le sanglier sont des candidats retenus pour la liste des espèces compatibles ; le gorille est également retenu comme candidat à examiner.
 - Plusieurs espèces pourront utiliser cette capacité, mais leur nombre restera limité : environ cinq à six espèces sont envisagées, afin que trouver un animal compatible constitue une petite énigme d’exploration sans rendre une seule espèce indispensable. Les espèces compatibles et le nom de la capacité restent à définir.
 - Les grottes constituent des zones d’exploration, de combat et de capture, avec la possibilité de trouver des fossiles, objets rares, secrets et indices narratifs.
 - La progression vers des régions plus avancées permet de rencontrer des animaux plus puissants.
@@ -379,4 +380,5 @@ Ce document est la source de vérité du projet pendant la première phase. Tout
 - **Catalogue d’animaux** : objectif provisoire de 40 à 60 lignées de base. Chaque lignée possède au minimum un stade jeune et un stade adulte, généralement au sein de la même espèce, ce qui représente environ 80 à 120 formes avant les éventuelles formes spéciales. Une évolution peut principalement augmenter les PV et renforcer certaines compétences sans changer d’espèce (ex. jeune loutre → loutre adulte). Des transformations fantastiques entre espèces, comme chat Bengal → tigre du Bengale, restent des exceptions explicites. Le volume pourra être ajusté au fil de la conception.
 - **Fossiles et catalogue préhistorique** : distinction confirmée entre fossiles de résurrection (qui donnent une espèce préhistorique distincte, obtenue jeune au laboratoire) et fossiles d’évolution ancestrale (qui débloquent une forme spéciale pour une espèce moderne compatible). Le Psittacosaurus remplace le Ptéranodon parmi les candidats à la résurrection ; le Mégathérium remplace le mammouth laineux dans cette liste. Le mammouth laineux est réservé à une éventuelle forme ancestrale de l’éléphant et ne serait pas ressuscité séparément. Le Smilodon est réservé à une forme ancestrale spéciale de la lignée chat Bengal → tigre du Bengale et n’est pas candidat à la résurrection. Autres associations proposées : éléphant → mammouth laineux, cerf élaphe → Mégalocéros, requin blanc → Mégalodon, bec-en-sabot du Nil → forme inspirée du Ptéranodon. L’Arctodus est retenu comme forme ancestrale de l’ours brun. Sept espèces de résurrection sont maintenant retenues : Vélociraptor, Tricératops, Stégosaure, Tyrannosaure, Psittacosaurus, Mégathérium et Dunkleosteus, associé aux zones côtières.
 - **Catalogue moderne — ajustements** : la loutre est retenue comme candidate, avec une évolution standard de jeune loutre à loutre adulte plus puissante. Le python vert arboricole est écarté pour éviter deux lignées de serpents ; le crocodile du Nil est retenu comme espèce candidate à sa place. La lignée chat Bengal → tigre du Bengale est une seule lignée fantastique : chat Bengal jeune, tigre du Bengale adulte, puis forme ancestrale inspirée du Smilodon accessible par fossile. Le Maine Coon reste une lignée distincte, avec un chaton Maine Coon puis sa forme adulte. La liste des mammifères ne compte plus le tigre du Bengale séparément.
+- **Capacité de terrain — briser les rochers** : une capacité unique fondée sur la force physique permettra de briser certains rochers et obstacles pour ouvrir des passages et dégager la roche qui dissimule la Pierre. Le rhinocéros, l’ours brun, l’éléphant d’Afrique et le sanglier sont des candidats retenus pour la liste des espèces compatibles ; le gorille est également retenu comme candidat à examiner. Environ cinq à six espèces compatibles sont visées, mais la liste finale reste à définir. Le gorille est ajouté au catalogue de travail ; sa forme jeune pourrait être un macaque ou un gibbon évoluant vers un gorille adulte, sans choix arrêté à ce stade.
 - **Caractéristiques et règles de combat** : six caractéristiques par animal (PV, Attaque, Défense, Attaque spéciale, Défense spéciale et Vitesse). Les PV augmentent à chaque niveau gagné. Contre un animal sauvage, le joueur joue en premier ; mettre l’adversaire KO termine le combat et rapporte de l’expérience à l’animal du joueur. La capture exige des PV faibles ou un état tel que le sommeil ou l’empoisonnement. Contre un dresseur, le joueur doit remplacer tout animal KO tant qu’il en reste d’aptes au combat ; si toute son équipe est KO, il est renvoyé dans un centre de santé pour restaurer PV et utilisations d’attaques. Mettre toute l’équipe adverse KO fait gagner le combat et de l’argent. La formule de dégâts s’appuiera sur celle de Pokémon Rouge Feu / Vert Feuille, adaptée à Overland, avec une catégorie physique ou spéciale définie attaque par attaque. Les modificateurs et valeurs numériques restent à tester ; l’ordre des actions contre les dresseurs reste à concevoir.
