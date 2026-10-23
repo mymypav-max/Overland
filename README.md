@@ -72,8 +72,9 @@ Overland est un projet de jeu vidéo personnel (« homemade »), conçu pour êt
 - Les animaux rencontrés à l’état sauvage doivent tous pouvoir être capturés.
 - Une capture réussie ajoute l’animal à l’équipe transportée ou au système de stockage. Aucun système d’apprivoisement préalable fondé sur la confiance n’est prévu.
 - Les animaux gagnent de l’expérience et des niveaux grâce aux combats.
-- Chaque espèce possède au minimum une forme jeune et une forme adulte.
-- Chaque espèce a son propre niveau d’évolution. À ce niveau, l’évolution vers la forme adulte se déclenche automatiquement.
+- Chaque lignée animale possède au minimum un stade jeune et un stade adulte. L’évolution peut être une maturation de la même espèce (par exemple : jeune loutre → loutre adulte) ou, dans certains cas fantastiques explicitement conçus comme tels, une transformation vers une autre forme animale (par exemple : chat Bengal → tigre du Bengale).
+- Chaque lignée a son propre niveau d’évolution. À ce niveau, le passage au stade adulte ou à la forme évoluée se déclenche automatiquement.
+- Une évolution standard au sein de la même espèce peut principalement améliorer les caractéristiques (notamment les PV) et renforcer certaines compétences, sans exiger un changement radical de silhouette ou d’espèce.
 - Les espèces rencontrées dans les régions plus avancées sont généralement de niveau supérieur, afin que le joueur puisse renouveler ou renforcer son équipe sans devoir tout recommencer au niveau 1.
 - Chaque animal possède un **niveau** et des **points de vie (PV)**. Son nombre de PV augmente à chaque niveau gagné ; la formule exacte reste à définir.
 - Chaque animal peut connaître **quatre attaques au maximum**. Les animaux de bas niveau, notamment avant leur évolution, peuvent en connaître moins.
@@ -190,7 +191,7 @@ Les animaux préhistoriques ne doivent pas être automatiquement plus puissants 
 
 ### A. Animaux modernes — pistes
 
-Chaque espèce retenue devra avoir au minimum une forme jeune et une forme adulte. Les pouvoirs, attaques, niveaux d’évolution et habitats restent à concevoir individuellement.
+Chaque lignée retenue devra avoir au minimum un stade jeune et un stade adulte. Dans de nombreux cas, il s’agira simplement du même animal à deux âges différents : par exemple, une jeune loutre évolue en loutre adulte, avec davantage de PV et certaines compétences plus puissantes. Une transformation vers une autre espèce, comme chat Bengal → tigre du Bengale, reste une exception fantastique à assumer explicitement. Les pouvoirs, attaques, niveaux d’évolution et habitats restent à concevoir individuellement.
 
 **Mammifères**
 - Maine Coon — lignée féline distincte, avec une forme jeune de chaton Maine Coon puis une forme adulte Maine Coon.
@@ -199,7 +200,6 @@ Chaque espèce retenue devra avoir au minimum une forme jeune et une forme adult
 - Renard roux.
 - Renard polaire.
 - Lion.
-- Tigre du Bengale.
 - Léopard des neiges.
 - Ours brun.
 - Ours polaire.
@@ -213,7 +213,7 @@ Chaque espèce retenue devra avoir au minimum une forme jeune et une forme adult
 - Sanglier.
 - Panda roux.
 - Ornithorynque.
-- Loutre — ajout retenu comme candidate.
+- Loutre — candidate retenue ; progression standard d’une jeune loutre vers une loutre adulte plus puissante, sans changement d’espèce.
 
 **Oiseaux**
 - Pigeon biset.
@@ -275,6 +275,8 @@ Une forme spéciale reste rattachée à sa lignée moderne compatible ; elle ne 
 
 - Privilégier des animaux réels reconnaissables et visuellement distincts, plutôt que de multiplier des espèces très similaires.
 - Des espèces moins communes ou plus singulières peuvent être préférées à des choix génériques lorsque cela enrichit le catalogue.
+- Une évolution standard peut représenter simplement le passage du stade jeune au stade adulte de la même espèce, avec une hausse des PV et le renforcement de certaines compétences.
+- Les transformations fantastiques vers une autre espèce ou vers une forme ancestrale restent possibles, mais doivent être identifiées comme des exceptions propres à certaines lignées.
 - Les formes évoluées peuvent devenir plus grandes, changer nettement de silhouette ou s’inspirer de créatures légendaires, à condition de conserver un lien visuel lisible avec l’animal de départ.
 - Le jeu n’a pas vocation à être une encyclopédie scientifique : certaines évolutions et associations fossiles peuvent être librement fantastiques.
 - La répartition par habitat doit rester cohérente quand cela améliore la lisibilité du monde, sans imposer un réalisme écologique strict à chaque rencontre.
@@ -365,7 +367,7 @@ Ce document est la source de vérité du projet pendant la première phase. Tout
 - **Début de l’aventure** : le jeu commence au port de l’île, dans une ambiance calme et accueillante. Le protagoniste appelle son père pour confirmer son arrivée ; d’autres appels pourront rapporter ses découvertes. Un contact scientifique déjà connu à distance l’accueille et l’a aidé à préparer son séjour. Ce contact travaille dans un laboratoire situé dans une ville qui sera découverte plus tard. La première excursion et les détails de cette introduction restent à concevoir.
 - **Capture et stockage** : appareil technologique unique, charges consommables à chaque tentative, capacité de transport de six animaux et stockage distant pour les captures supplémentaires.
 - **Attaques et progression des animaux** : chaque animal possède un niveau et des PV qui augmentent à chaque niveau gagné. Quatre attaques au maximum par animal, chacune ayant sa propre puissance, son risque d’échec et son nombre d’utilisations. Les animaux peuvent connaître moins d’attaques à bas niveau ; chaque espèce apprend de nouvelles attaques à des niveaux qui lui sont propres. Si les quatre emplacements sont occupés, une nouvelle attaque peut remplacer une attaque connue. Des objets d’apprentissage inspirés du principe des CT/CS de Pokémon sont envisagés, en nombre limité ; leurs détails restent à concevoir.
-- **Catalogue d’animaux** : objectif provisoire de 40 à 60 espèces de base. Avec au minimum une forme jeune et une forme adulte par espèce, cela représente environ 80 à 120 formes, hors éventuelles formes spéciales. Le volume pourra être ajusté au fil de la conception.
+- **Catalogue d’animaux** : objectif provisoire de 40 à 60 lignées de base. Chaque lignée possède au minimum un stade jeune et un stade adulte, généralement au sein de la même espèce, ce qui représente environ 80 à 120 formes avant les éventuelles formes spéciales. Une évolution peut principalement augmenter les PV et renforcer certaines compétences sans changer d’espèce (ex. jeune loutre → loutre adulte). Des transformations fantastiques entre espèces, comme chat Bengal → tigre du Bengale, restent des exceptions explicites. Le volume pourra être ajusté au fil de la conception.
 - **Fossiles et catalogue préhistorique** : distinction confirmée entre fossiles de résurrection (qui donnent une espèce préhistorique distincte, obtenue jeune au laboratoire) et fossiles d’évolution ancestrale (qui débloquent une forme spéciale pour une espèce moderne compatible). Le Psittacosaurus remplace le Ptéranodon parmi les candidats à la résurrection. Le Smilodon est réservé à une forme ancestrale spéciale de la lignée chat Bengal → tigre du Bengale et n’est pas candidat à la résurrection. Autres associations proposées : cerf élaphe → Mégalocéros, requin blanc → Mégalodon, bec-en-sabot du Nil → forme inspirée du Ptéranodon. Le catalogue vise au moins six à sept espèces ressuscitables.
-- **Catalogue moderne — ajustements** : la loutre est ajoutée comme candidate. Le python vert arboricole est écarté pour éviter deux lignées de serpents ; le crocodile du Nil est retenu comme espèce candidate à sa place. La lignée chat Bengal → tigre du Bengale est une seule lignée : chat Bengal jeune, tigre du Bengale adulte, puis forme ancestrale inspirée du Smilodon accessible par fossile. Le Maine Coon reste une lignée distincte, avec un chaton Maine Coon puis sa forme adulte.
+- **Catalogue moderne — ajustements** : la loutre est retenue comme candidate, avec une évolution standard de jeune loutre à loutre adulte plus puissante. Le python vert arboricole est écarté pour éviter deux lignées de serpents ; le crocodile du Nil est retenu comme espèce candidate à sa place. La lignée chat Bengal → tigre du Bengale est une seule lignée fantastique : chat Bengal jeune, tigre du Bengale adulte, puis forme ancestrale inspirée du Smilodon accessible par fossile. Le Maine Coon reste une lignée distincte, avec un chaton Maine Coon puis sa forme adulte. La liste des mammifères ne compte plus le tigre du Bengale séparément.
 - **Caractéristiques et règles de combat** : six caractéristiques par animal (PV, Attaque, Défense, Attaque spéciale, Défense spéciale et Vitesse). Les PV augmentent à chaque niveau gagné. Contre un animal sauvage, le joueur joue en premier ; mettre l’adversaire KO termine le combat et rapporte de l’expérience à l’animal du joueur. La capture exige des PV faibles ou un état tel que le sommeil ou l’empoisonnement. Contre un dresseur, le joueur doit remplacer tout animal KO tant qu’il en reste d’aptes au combat ; si toute son équipe est KO, il est renvoyé dans un centre de santé pour restaurer PV et utilisations d’attaques. Mettre toute l’équipe adverse KO fait gagner le combat et de l’argent. La formule de dégâts s’appuiera sur celle de Pokémon Rouge Feu / Vert Feuille, adaptée à Overland, avec une catégorie physique ou spéciale définie attaque par attaque. Les modificateurs et valeurs numériques restent à tester ; l’ordre des actions contre les dresseurs reste à concevoir.
