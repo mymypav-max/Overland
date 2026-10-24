@@ -105,6 +105,24 @@ Principes de conception retenus :
 - Le système pourra permettre à certains animaux d’avoir un **type principal et un type secondaire**. Le second type vise avant tout à élargir la palette de compétences accessibles à l’animal ; il ne doit pas automatiquement le rendre plus puissant ni augmenter ses statistiques. Les associations envisagées restent à étudier individuellement ; par exemple, ours polaire : Eau en type principal et Glace en type secondaire ; éléphant : Sol en type principal et éventuellement Psy en type secondaire. Ces exemples sont des pistes, pas des affectations définitivement validées.
 - Les autres types possibles, les affectations de chaque espèce et le tableau des forces et faiblesses restent à concevoir.
 
+### Compétences de type Feu — première sélection de conception
+
+Le principe d’une première sélection d’environ dix compétences de type Feu inspirées de Pokémon est validé pour la phase de conception. Cette sélection reste provisoire : les compétences, leurs effets et leurs valeurs seront réévalués lorsque le système de combat sera plus précis.
+
+Liste de travail :
+- Flammèche
+- Roue de Feu
+- Crocs Feu
+- Poing de Feu
+- Lance-Flammes
+- Déflagration
+- Canicule
+- Nitrocharge
+- Feu Follet
+- Boutefeu
+
+Roue de Feu et Nitrocharge sont toutes deux conservées dans la sélection, même si leurs rôles peuvent se rapprocher. Une idée à étudier pour Canicule serait de modifier temporairement l’environnement du combat pendant plusieurs tours, sur le principe d’un effet météorologique comme la Tempête de sable dans Pokémon. La durée, les effets exacts et l’intérêt tactique de cette mécanique restent à concevoir. Cette idée n’est pas encore une règle validée.
+
 ### Règles de combat — validé
 
 - Les combats se déroulent au tour par tour, en s’inspirant du modèle de Pokémon.
@@ -392,7 +410,7 @@ Ce document est la source de vérité du projet pendant la première phase. Tout
 - **Début de l’aventure** : le jeu commence au port de l’île, dans une ambiance calme et accueillante. Le protagoniste appelle son père pour confirmer son arrivée ; d’autres appels pourront rapporter ses découvertes. Un contact scientifique déjà connu à distance l’accueille et l’a aidé à préparer son séjour. Ce contact travaille dans un laboratoire situé dans une ville qui sera découverte plus tard. La première excursion et les détails de cette introduction restent à concevoir.
 - **Capture et stockage** : appareil technologique unique, charges consommables à chaque tentative, capacité de transport de six animaux et stockage distant pour les captures supplémentaires.
 - **Attaques et progression des animaux** : chaque animal possède un niveau et des PV qui augmentent à chaque niveau gagné. Quatre attaques au maximum par animal, chacune ayant sa propre puissance, son risque d’échec et son nombre d’utilisations. Les animaux peuvent connaître moins d’attaques à bas niveau ; chaque espèce apprend de nouvelles attaques à des niveaux qui lui sont propres. Si les quatre emplacements sont occupés, une nouvelle attaque peut remplacer une attaque connue. Des objets d’apprentissage inspirés du principe des CT/CS de Pokémon sont envisagés, en nombre limité ; leurs détails restent à concevoir.
-- **Volume provisoire de compétences** : viser environ dix compétences par type élémentaire pendant la phase de conception initiale. Ce nombre pourra être revu à la hausse ou à la baisse lorsque le système de combat, le catalogue des espèces et leur progression seront mieux définis.
+- **Volume provisoire de compétences** : viser environ dix compétences par type élémentaire pendant la phase de conception initiale. Ce nombre pourra être revu à la hausse ou à la baisse lorsque le système de combat, le catalogue des espèces et leur progression seront mieux définis. Pour le type Feu, le principe d’une première sélection de dix compétences inspirées de Pokémon est validé ; Roue de Feu et Nitrocharge sont toutes deux conservées. La possibilité que Canicule modifie temporairement l’environnement du combat pendant plusieurs tours, à la manière de la Tempête de sable de Pokémon, reste une piste à étudier.
 - **Catalogue d’animaux** : objectif provisoire de 40 à 60 lignées de base. Chaque lignée possède au minimum un stade jeune et un stade adulte, généralement au sein de la même espèce, ce qui représente environ 80 à 120 formes avant les éventuelles formes spéciales. Une évolution peut principalement augmenter les PV et renforcer certaines compétences sans changer d’espèce (ex. jeune loutre → loutre adulte). Des transformations fantastiques entre espèces, comme chat Bengal → tigre du Bengale, restent des exceptions explicites. Le volume pourra être ajusté au fil de la conception.
 - **Fossiles et catalogue préhistorique** : distinction confirmée entre fossiles de résurrection (qui donnent une espèce préhistorique distincte, obtenue jeune au laboratoire) et fossiles d’évolution ancestrale (qui débloquent une forme spéciale pour une espèce moderne compatible). Le Psittacosaurus remplace le Ptéranodon parmi les candidats à la résurrection ; le Mégathérium remplace le mammouth laineux dans cette liste. Le mammouth laineux est réservé à une éventuelle forme ancestrale de l’éléphant et ne serait pas ressuscité séparément. Le Smilodon est réservé à une forme ancestrale spéciale de la lignée chat Bengal → tigre du Bengale et n’est pas candidat à la résurrection. Autres associations proposées : éléphant → mammouth laineux, cerf élaphe → Mégalocéros, requin blanc → Mégalodon, bec-en-sabot du Nil → forme inspirée du Ptéranodon. L’Arctodus est retenu comme forme ancestrale de l’ours brun. Sept espèces de résurrection sont maintenant retenues : Vélociraptor, Tricératops, Stégosaure, Tyrannosaure, Psittacosaurus, Mégathérium et Dunkleosteus, associé aux zones côtières.
 - **Catalogue moderne — ajustements** : la loutre est retenue comme candidate, avec une évolution standard de jeune loutre à loutre adulte plus puissante. Le python vert arboricole est écarté pour éviter deux lignées de serpents ; le crocodile du Nil est retenu comme espèce candidate à sa place. La lignée chat Bengal → tigre du Bengale est une seule lignée fantastique : chat Bengal jeune, tigre du Bengale adulte, puis forme ancestrale inspirée du Smilodon accessible par fossile. Le Maine Coon reste une lignée distincte, avec un chaton Maine Coon puis sa forme adulte. La liste des mammifères ne compte plus le tigre du Bengale séparément.
