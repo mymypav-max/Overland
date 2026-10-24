@@ -80,7 +80,7 @@ Overland est un projet de jeu vidéo personnel (« homemade »), conçu pour êt
 - Les espèces rencontrées dans les régions plus avancées sont généralement de niveau supérieur, afin que le joueur puisse renouveler ou renforcer son équipe sans devoir tout recommencer au niveau 1.
 - Chaque animal possède un **niveau** et des **points de vie (PV)**. Son nombre de PV augmente à chaque niveau gagné ; la formule exacte reste à définir.
 - Chaque animal peut connaître **quatre attaques au maximum**. Les animaux de bas niveau, notamment avant leur évolution, peuvent en connaître moins.
-- Chaque attaque possède sa propre puissance destructrice, son risque d’échec (précision) et un nombre limité d’utilisations.
+- Chaque attaque possède sa propre puissance destructrice, son risque d’échec (précision) et un nombre limité d’utilisations. **Toutes les attaques auront des utilisations limitées**, sans attaque de base illimitée ; ce principe reprend le modèle de gestion des utilisations de Pokémon. Les règles de restauration et d’approvisionnement restent à concevoir afin d’éviter que l’épuisement des attaques ne bloque durablement la progression.
 - Chaque espèce apprend certaines nouvelles attaques à des niveaux qui lui sont propres.
 - Si un animal connaît déjà quatre attaques lorsqu’il peut en apprendre une nouvelle, le joueur peut remplacer l’une des attaques existantes par la nouvelle.
 
