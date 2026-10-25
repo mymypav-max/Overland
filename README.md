@@ -36,7 +36,9 @@ Overland est un projet de jeu vidéo personnel (« homemade »), conçu pour êt
 - Le jeu se déroule à un **instant donné** : le joueur ne voyage pas entre différentes époques.
 - Le passé est découvert à travers ses vestiges : fossiles, animaux préhistoriques, grottes, ruines, lieux abandonnés et autres indices.
 - Le monde reste reconnaissable et proche du nôtre dans ses paysages et ses lieux habités.
+- Des environnements différents pourront se côtoyer dès les premières heures de l’aventure ; les paysages ne suivront pas nécessairement une succession stricte du plus familier au plus exotique.
 - Le cadre principal est une **grande île connue depuis longtemps dans le monde entier**, avec des lieux habités, des localités abandonnées, des grottes et des régions naturelles variées.
+- La structure géographique visée s’inspire de **Pokémon Rouge** : une progression principalement linéaire entre villes et villages reliés par des routes, avec des zones d’exploration plus libres accessibles en chemin ou à proximité.
 - L’île est réputée pour ses animaux : ils ressemblent à des animaux ordinaires du monde réel, mais possèdent des pouvoirs surnaturels ou élémentaires.
 - Des personnes venues du monde entier — notamment des chercheurs et des explorateurs — se rendent sur l’île pour étudier ses animaux et tenter de comprendre ce phénomène.
 - À ce stade, l’île est le seul endroit connu où des animaux possèdent ces pouvoirs.
@@ -61,6 +63,8 @@ Overland est un projet de jeu vidéo personnel (« homemade »), conçu pour êt
 ### À concevoir
 
 - La carte, les régions, leur ordre de découverte et leurs particularités.
+- La position précise du cratère : piste actuelle, un grand cratère intérieur situé vers le centre de l’île, légèrement décalé plutôt qu’exactement au milieu. Son accessibilité et son éventuelle exploration restent à décider.
+- L’éventuelle création d’îlots secondaires après stabilisation du jeu principal, par exemple pour accueillir des quêtes secondaires ; cette possibilité n’est pas nécessaire au périmètre initial.
 - La place des villes, laboratoires, ruines et autres lieux importants dans le récit.
 - La répartition des dix symboles, leurs indices et la façon dont le joueur les saisit sur la pierre.
 - Les espèces compatibles avec la capacité de terrain permettant de briser les rochers et certains obstacles rocheux. Environ cinq à six espèces pourraient l’utiliser, afin de conserver une petite énigme d’exploration sans rendre une espèce unique indispensable. La liste des espèces et le nom de la capacité restent à définir.
