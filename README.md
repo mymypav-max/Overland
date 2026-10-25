@@ -48,6 +48,7 @@ Overland est un projet de jeu vidéo personnel (« homemade »), conçu pour êt
 - Beaucoup pensent que la météorite est à l’origine des pouvoirs des animaux, mais cette explication n’a jamais pu être prouvée. La révélation finale montrera que cette croyance est erronée : les pouvoirs proviennent d’une pierre magique créée par la civilisation ancienne, qui est restée active après sa disparition.
 - Les grottes et certains lieux isolés peuvent contenir des animaux sauvages, des objets, des fossiles et des indices sur l’histoire de l’île.
 - **Exploration des grottes — principe validé** : les grottes doivent être très sombres. Une lampe frontale achetée dans un centre de vente sera nécessaire pour explorer la grotte où se trouve la Pierre et la découvrir. Cette lampe ne dépend pas des capacités des animaux. Le principe d’une disponibilité dans un centre de vente unique, à un moment clé de l’aventure, est retenu ; l’emplacement précis du commerce, le moment exact de l’achat et les règles de visibilité avant l’obtention de la lampe restent à concevoir.
+- **Deux grottes importantes envisagées pour la conception du monde** : une grotte principale, liée à la découverte de la Pierre et à l’intrigue, et une grotte secondaire, facultative, destinée notamment à l’exploration et à la rencontre d’autres espèces animales. Cette distinction est retenue comme direction de conception ; leurs emplacements, leurs accès, leur contenu détaillé et leurs éventuelles différences de difficulté restent à définir.
 
 ### Histoire ancienne et pierre — validé comme direction narrative
 
