@@ -252,7 +252,7 @@ Les PV augmentent à chaque niveau gagné. La formule exacte d’évolution des 
 - Les centres de santé restaurent les PV des animaux et rétablissent tous leurs PP.
 - Chaque ville habitée disposera d’un centre de santé.
 - Les villes abandonnées et les grottes ne disposent généralement pas de centre de santé ; certaines grottes pourraient faire exception avec un centre placé à l’entrée ou à la sortie, mais cette possibilité reste une piste de level design.
-- Les PP et les charges de capture sont deux ressources indépendantes : les PP servent à limiter l’utilisation des attaques, tandis qu’une charge est consommée à chaque tentative de capture, qu’elle réussisse ou échoue.
+- Les PP et les charges de capture sont deux ressources indépendantes : les PP servent à limiter l’utilisation des attaques, tandis qu’une charge est consommée à chaque tentative de capture, qu’elle réussisse ou échoue. L’épuisement des PP est conçu comme une contrainte secondaire pendant l’exploration : les PV devraient généralement demander une gestion plus fréquente, mais il peut arriver qu’un animal épuise tous ses PP. Dans ce cas, le joueur peut utiliser un autre animal, rejoindre un centre de santé ou employer un médicament de restauration des PP s’il en possède un. Les valeurs et l’équilibrage devront préserver cette intention.
 
 #### Pistes à concevoir
 - Des médicaments pourraient permettre de restaurer une quantité définie de PV pendant l’exploration, sans devoir retourner immédiatement dans un centre de santé. Le type de médicaments, les quantités restaurées, les prix et les règles d’utilisation restent à définir.
